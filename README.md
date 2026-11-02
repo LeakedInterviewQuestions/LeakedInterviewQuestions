@@ -4,4 +4,4 @@ Interview preparation for software engineers: company-specific questions, candid
 
 Website: https://askedbefore.io
 
-Discord Community: [https://discord.com/invite/b5y6unmq6](Discord)
+Discord Community: https://discord.com/invite/b5y6unmq6
