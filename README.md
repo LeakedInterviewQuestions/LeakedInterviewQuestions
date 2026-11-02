@@ -1,6 +1,6 @@
 ## AskedBefore
 
-Interview preparation for software engineers: company-specific questions, candidate-reported experiences, and study resources, with sources noted.
+Interview questions for software engineers: company-specific questions, candidate-reported experiences, and study resources, with sources noted.
 
 Website: https://askedbefore.io
 
