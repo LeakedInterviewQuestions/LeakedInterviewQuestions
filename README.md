@@ -4,4 +4,4 @@ Interview questions for software engineers: company-specific questions, candidat
 
 Trial and Paid versions available!
 
-Discord Community: https://discord.com/invite/b5y6unmq6
+Discord Community: https://discord.gg/nTyyaTzVn
